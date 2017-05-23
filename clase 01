@@ -1,25 +1,12 @@
 <html> 
 	<head> 
+		<link rel="stylesheet" href="css/style.css">
 		<title>
 		Título de la ventana
 		</title>
 	</head>
 	
 	<body> 
-			<style>
-			body	{
-				background-color: #ff6600;
-				}
-
-			h1	{
-				color:white;
-				text-align:center;}
-
-			p	{
-				font-family: verdana;
-				font-size: 1.4em;
-				}
-			</style>
 		<h1>Título 1</h1>
 		<b>Prueba</b>
 		<a href="http://molibdeno.com.ar" target="_blank">Molibdeno Ingeniería</a>
