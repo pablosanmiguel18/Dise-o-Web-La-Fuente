@@ -33,9 +33,9 @@
 			</tr>
 			<tr>
 				<td colspan="2">
- 					<video width="640" height="480" controls>
-					<source src="https://www.youtube.com/watch?v=MVQPBOfZubs" type="video/mp4">
-					</video> 
+				<iframe width="640" height="480"
+				src="https://www.youtube.com/embed/MVQPBOfZubs">
+				</iframe> 
 				</td>
 			</tr>
 
